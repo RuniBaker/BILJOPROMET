@@ -2601,6 +2601,11 @@
 	padding: 12px 25px;
 	border: none;
 }
+html {
+  scroll-behavior: smooth;
+}
+
+
 
 
 
