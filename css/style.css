@@ -2604,7 +2604,9 @@
 html {
   scroll-behavior: smooth;
 }
-
+ .darker{
+  color: black;
+ }
 
 
 
